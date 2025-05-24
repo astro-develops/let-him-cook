@@ -1,0 +1,936 @@
+{
+  "items": {
+    "story": [
+      {
+        "id": 1,
+        "title": "Beginnings (1999 - 2006)",
+        "text": "FRC Team 303: Vulgen's Heroes was created in 1998 as a partnership between Bihler of America, the Midland school and Pingry Academy. After their first season in 1999, Pingry decided to not participate the following year, and Bridgewater-Raritan High School took their place. Throughout the next several years, this new partnership was incredibly successful. The BRHS and Midland students had the opportunity to work alongside real engineers to solve the fun challenge that FIRST created every year, and Bihler engineers enjoyed the challenge of mentoring students and assisting in the creation process, all  with tight deadlines. After their second season, the team also changed its name from Vulgen’s Heroes to Panther Robotics, after the mascot of BRHS. Throughout this time period, it was not uncommon for Team 303 to take home event banners from competitions.",
+        "imageUrl": "/img/beginnings.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Relocation (2007)",
+        "text": "After the successful first several seasons for the team, Bihler unfortunately came to the point where they could no longer allow their facilities to be used by the team. This was problematic to the team since their workspace, mentors, and funding all came from Bihler. The team went searching for a new sponsor to replace Bihler, but unfortunately, due to the search and other reasons, Midland decided to leave the team as well. Team 303 was now exclusively part of the Bridgewater-Raritan High School. As the 2007 season approached, things began to look up; while the team did not have one big sponsor to replace Bihler, many smaller donations were starting to fill the gap, but the team was still desperately in need of a build site. After looking at school classrooms, students’ garages, and other solutions, Pressure Tube Manufacturing (PTM), stepped in, and allowed Panther Robotics use of its facilities.",
+        "imageUrl": "/img/relocation.jpg"
+      },
+      {
+        "id": 3,
+        "title": "303 Renaissance (2008 - 2010)",
+        "text": "With new-found stability, Team 303 went through an era of massive growth and derenaissancevelopment. They continued working to give back to the community in new ways, such as raking leaves and shoveling snow for the elderly and creating an engineering program for fourth and fifth graders to attend after school. The team also started an off-season event called the Bridgewater-Raritan Battle Royale or BR2, which was hosted  yearly in late May and attended by roughly thirty teams. The team also started several green initiatives such as recycling metal scraps and cans, collecting old cell phones and electronics, and cleaning up the high school. These activities both benefited the team and the community. The growth of the team culminated with its successful 2010 season, in which it made waves in both the New Jersey and Connecticut Regionals by making it into semi-finals and quarter-finals respectively, and running a strategy booth to help every team maximize their scouting information.",
+        "imageUrl": "/img/chompy.png"
+      },
+      {
+        "id": 4,
+        "title": "A New Era (2011)",
+        "text": "At the end of 2011, Team 303 lost their workspace once more when, after an ownership change, PTM decided that they would no longer provide a space for the team. Fortunately, the team quickly found a temporary workspace at STS Tire & Auto Center that would give them a place to work during the build season. That temporary workspace turned into a strong partnership and a permanent home for the team. 2011 was a huge year for the team; with the wins of  both the New Jersey and Philadelphia Regionals and making it to eliminations at the World Championship. The summer that followed that season, the team formed the Student Leadership Council (SLC). The creation of the SLC was a huge milestone that marked a large transition of power from the mentors/advisors to the students.",
+        "imageUrl": "/img/relocation.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Testing… (2012 - 2019)",
+        "text": "After deciding their team name and colors were not unique, Panther Robotics became The T.E.S.T. Team 303 with a unique teal color and vibrant test pattern logo, specifically SMPTE color bars, or Engineering Guideline EG 1-1990. T.E.S.T. stands for Technologists, Engineers, Students, and Teachers, the major groups that make up the team. The change was a massive success that lead to the team winning the Imagery award at their second competition of the season. 2013 was an even better season for the team.. Team 303 was one of the top teams in their region, qualified for the World Championship, then ended up being the captain of the alliance that went on to win the entire division. The team had another monumental year in 2014, not only winning the Chairman’s award for the first time ever at a district event, but they won it again at the regional championship, beating teams who have been winning it consistently for years. In 2019, a major revamp occurred in the T.E.S.T. Team, where in order to better reflect the needs of the team, the leadership system was modified and instead of the SLC, a new team structure was created featuring Project Managers, Project Supervisors, and Coordinators, with the intent to create better harmony between all team members and to create a more efficient chain of productivity. ",
+        "imageUrl": "/img/chompy.png"
+      },
+      {
+        "id": 6,
+        "title": "Rise Up (2020 - Present)",
+        "text": "In 2020, they took part in the Infinite Recharge Challenge and won the Engineering Inspiration Award as well as the Donald Bowers Award. Unfortunately the arrival of COVID made going to in-person competitions not possible. Team 303 instead focused on Virtual Collaboration to get the ball rolling in 2021. Testing they took part in the Infinite Recharge’s Innovation and Game Design Challenges. However when there was a glimpse of hope over the horizon for going back in-person, Hurricane Ida came in and flooded the warehouse where the team used to work. Due to the Warehouse having toxic chemicals in the soil surrounding it, Team 303 was forced to find a new place to continue their works. Losing STS was a hard hit to Team 303 as all their equipment and supplies where drowned by the flood. However, the warm memories kept the team members to push harder and find a way to be a part of the competition. With the help of the Bridgewater Raritan School District, Team 303 was able to relocate to an Administration building where they plan to build their robot for the 2022 FRC Rapid React Competition. ",
+        "imageUrl": "/img/chompy.png"
+      }
+    ],
+    "bots": [
+      {
+        "year": 2024,
+        "totalWins": 8,
+        "totalLosses": 29,
+        "events": [
+          {
+            "event": "2024pahat",
+            "overall_status": "Team 303 was <b>Rank 32/33</b> with a record of <b>3-9-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 4</b>, and was eliminated in the <b>Double Elimination Bracket (Round 2)</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 3,
+            "losses": 9,
+            "awards": []
+          },
+          {
+            "event": "2024njwas",
+            "overall_status": "Team 303 was <b>Rank 30/32</b> with a record of <b>3-9-0</b> in quals.",
+            "wins": 3,
+            "losses": 9,
+            "awards": ["District Engineering Inspiration Award"]
+          },
+          {
+            "event": "2024njrr",
+            "overall_status": "Team 303 was <b>Rank 24/24</b> with a record of <b>1-6-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Questionable Pi-oneers Test</b>, and <b>won the event</b> with a playoff record of <b>5-2-0</b>.",
+            "wins": 1,
+            "losses": 6,
+            "awards": []
+          },
+          {
+            "event": "2024njbe",
+            "overall_status": "Team 303 is <b>Rank 29/36</b> with a record of <b>1-5-0</b> in quals.",
+            "wins": 1,
+            "losses": 5,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2023,
+        "totalWins": 14,
+        "totalLosses": 26,
+        "events": [
+          {
+            "event": "2023njwas",
+            "overall_status": "Team 303 was <b>Rank 8/31</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 6</b>, and was eliminated in the <b>Double Elimination Bracket (Round 2)</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 8,
+            "losses": 4,
+            "awards": ["Industrial Design Award sponsored by General Motors"]
+          },
+          {
+            "event": "2023njrob",
+            "overall_status": "Team 303 was <b>Rank 26/31</b> with a record of <b>3-9-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 7</b>, and was eliminated in the <b>Double Elimination Bracket (Round 2)</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 3,
+            "losses": 9,
+            "awards": ["Judges' Award"]
+          },
+          {
+            "event": "2023njbw",
+            "overall_status": "Team 303 was <b>Rank 8/21</b> with a record of <b>0-0-0</b> in quals and will be competing in the playoffs as the <b>Captain</b> of <b>Alliance 5</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          },
+          {
+            "event": "2023njbe",
+            "overall_status": "Team 303 was <b>Rank 40/42</b> with a record of <b>0-4-0</b> in quals.",
+            "wins": 0,
+            "losses": 4,
+            "awards": []
+          },
+          {
+            "event": "2023mrcmp",
+            "overall_status": "Team 303 was <b>Rank 57/60</b> with a record of <b>3-9-0</b> in quals.",
+            "wins": 3,
+            "losses": 9,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2022,
+        "totalWins": 9,
+        "totalLosses": 15,
+        "events": [
+          {
+            "event": "2022njski",
+            "overall_status": "Team 303 was <b>Rank 34/39</b> with a record of <b>5-7-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 3</b>, and was eliminated in the <b>Finals</b> with a playoff record of <b>4-3-0</b>.",
+            "wins": 5,
+            "losses": 7,
+            "awards": ["District Event Finalist", "Team Spirit Award"]
+          },
+          {
+            "event": "2022njbri",
+            "overall_status": "Team 303 was <b>Rank 31/36</b> with a record of <b>4-8-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 3</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 4,
+            "losses": 8,
+            "awards": []
+          },
+          {
+            "event": "2022njbr2",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2020,
+        "totalWins": 6,
+        "totalLosses": 5,
+        "events": [
+          {
+            "event": "2020pahat",
+            "overall_status": "Team 303 was <b>Rank 16/36</b> with a record of <b>6-5-1</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 6</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 6,
+            "losses": 5,
+            "awards": ["District Engineering Inspiration Award"]
+          },
+          {
+            "event": "2020njfla",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          },
+          {
+            "event": "2020njbri",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2019,
+        "totalWins": 55,
+        "totalLosses": 21,
+        "events": [
+          {
+            "event": "2019paben",
+            "overall_status": "Team 303 was <b>Rank 5/31</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 4</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-3-0</b>.",
+            "wins": 8,
+            "losses": 4,
+            "awards": ["Autonomous Award sponsored by Ford"]
+          },
+          {
+            "event": "2019nysu",
+            "overall_status": "Team 303 was <b>Rank 4/46</b> with a record of <b>7-3-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Finals</b> with a playoff record of <b>4-2-0</b>.",
+            "wins": 7,
+            "losses": 3,
+            "awards": [
+              "Regional Finalists",
+              "Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers",
+              "Wildcard"
+            ]
+          },
+          {
+            "event": "2019njmm",
+            "overall_status": "Team 303 was <b>Rank 4/33</b> with a record of <b>4-1-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 4</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 4,
+            "losses": 1,
+            "awards": []
+          },
+          {
+            "event": "2019njfla",
+            "overall_status": "Team 303 was <b>Rank 6/37</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 1</b>, and was eliminated in the <b>Finals</b> with a playoff record of <b>4-3-0</b>.",
+            "wins": 9,
+            "losses": 3,
+            "awards": [
+              "Industrial Design Award sponsored by General Motors",
+              "District Event Finalist"
+            ]
+          },
+          {
+            "event": "2019njbri",
+            "overall_status": "Team 303 was <b>Rank 5/35</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 3</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-3-0</b>.",
+            "wins": 9,
+            "losses": 3,
+            "awards": ["Autonomous Award sponsored by Ford"]
+          },
+          {
+            "event": "2019njbe",
+            "overall_status": "Team 303 was <b>Rank 31/40</b> with a record of <b>2-3-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 1</b>, and <b>won the event</b> with a playoff record of <b>6-0-0</b>.",
+            "wins": 2,
+            "losses": 3,
+            "awards": ["Winner"]
+          },
+          {
+            "event": "2019mrcmp",
+            "overall_status": "Team 303 was <b>Rank 1/60</b> with a record of <b>11-1-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+            "wins": 11,
+            "losses": 1,
+            "awards": []
+          },
+          {
+            "event": "2019cur",
+            "overall_status": "Team 303 was <b>Rank 28/68</b> with a record of <b>5-3-2</b> in quals, competed in the playoffs as the <b>3rd Pick</b> of <b>Alliance 6</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 5,
+            "losses": 3,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2018,
+        "totalWins": 43,
+        "totalLosses": 22,
+        "events": [
+          {
+            "event": "2018paca",
+            "overall_status": "Team 303 was <b>Rank 2/52</b> with a record of <b>8-1-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>6-1-0</b>.",
+            "wins": 8,
+            "losses": 1,
+            "awards": [
+              "Regional Winners",
+              "Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers"
+            ]
+          },
+          {
+            "event": "2018njfla",
+            "overall_status": "Team 303 was <b>Rank 1/40</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and <b>won the event</b> with a playoff record of <b>6-0-0</b>.",
+            "wins": 10,
+            "losses": 2,
+            "awards": [
+              "District Event Winner",
+              "Entrepreneurship Award sponsored by Kleiner Perkins Caufield and Byers"
+            ]
+          },
+          {
+            "event": "2018njdd",
+            "overall_status": "Team 303 was <b>Rank 15/29</b> with a record of <b>2-3-0</b> in quals and was eliminated in the <b>Semifinals</b> with a playoff record of <b>3-2-0</b>.",
+            "wins": 2,
+            "losses": 3,
+            "awards": []
+          },
+          {
+            "event": "2018njbri",
+            "overall_status": "Team 303 was <b>Rank 3/36</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>6-1-0</b>.",
+            "wins": 9,
+            "losses": 3,
+            "awards": ["District Event Winner", "Judges' Award"]
+          },
+          {
+            "event": "2018njbe",
+            "overall_status": "Team 303 was <b>Rank 10/43</b> with a record of <b>3-2-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 3</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>3-3-0</b>.",
+            "wins": 3,
+            "losses": 2,
+            "awards": []
+          },
+          {
+            "event": "2018mrcmp",
+            "overall_status": "Team 303 was <b>Rank 10/60</b> with a record of <b>7-5-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 7</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 7,
+            "losses": 5,
+            "awards": []
+          },
+          {
+            "event": "2018arc",
+            "overall_status": "Team 303 was <b>Rank 33/68</b> with a record of <b>4-6-0</b> in quals, competed in the playoffs as the <b>3rd Pick</b> of <b>Alliance 5</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 4,
+            "losses": 6,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2017,
+        "totalWins": 49,
+        "totalLosses": 28,
+        "events": [
+          {
+            "event": "2017nysu",
+            "overall_status": "Team 303 was <b>Rank 9/48</b> with a record of <b>6-4-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Finals</b> with a playoff record of <b>4-3-0</b>.",
+            "wins": 6,
+            "losses": 4,
+            "awards": ["Regional Finalists"]
+          },
+          {
+            "event": "2017njski",
+            "overall_status": "Team 303 was <b>Rank 1/38</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 9,
+            "losses": 3,
+            "awards": [
+              "Quality Award sponsored by Motorola Solutions Foundation"
+            ]
+          },
+          {
+            "event": "2017njmm",
+            "overall_status": "Team 303 was <b>Rank 19/34</b> with a record of <b>2-3-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 2,
+            "losses": 3,
+            "awards": []
+          },
+          {
+            "event": "2017njfla",
+            "overall_status": "Team 303 was <b>Rank 22/37</b> with a record of <b>5-7-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>6-0-0</b>.",
+            "wins": 5,
+            "losses": 7,
+            "awards": ["District Chairman's Award", "District Event Winner"]
+          },
+          {
+            "event": "2017njbri",
+            "overall_status": "Team 303 was <b>Rank 17/37</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 1</b>, and <b>won the event</b> with a playoff record of <b>6-0-0</b>.",
+            "wins": 6,
+            "losses": 6,
+            "awards": [
+              "District Event Winner",
+              "Gracious Professionalism Award sponsored by Johnson & Johnson"
+            ]
+          },
+          {
+            "event": "2017njbe",
+            "overall_status": "Team 303 was <b>Rank 8/39</b> with a record of <b>3-1-1</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 4</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 3,
+            "losses": 1,
+            "awards": []
+          },
+          {
+            "event": "2017mrcmp",
+            "overall_status": "Team 303 was <b>Rank 1/60</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+            "wins": 10,
+            "losses": 2,
+            "awards": []
+          },
+          {
+            "event": "2017cars",
+            "overall_status": "Team 303 was <b>Rank 1/68</b> with a record of <b>8-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+            "wins": 8,
+            "losses": 2,
+            "awards": [
+              "Quality Award sponsored by Motorola Solutions Foundation"
+            ]
+          }
+        ]
+      },
+      {
+        "year": 2016,
+        "totalWins": 40,
+        "totalLosses": 25,
+        "events": [
+          {
+            "event": "2016ohcl",
+            "overall_status": "Team 303 was <b>Rank 2/58</b> with a record of <b>6-2-1</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 2</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 6,
+            "losses": 2,
+            "awards": []
+          },
+          {
+            "event": "2016njski",
+            "overall_status": "Team 303 was <b>Rank 1/38</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+            "wins": 10,
+            "losses": 2,
+            "awards": ["Imagery Award in honor of Jack Kamen"]
+          },
+          {
+            "event": "2016njmm",
+            "overall_status": "Team 303 had a record of <b>2-4-0</b> in quals and was eliminated in the <b>Semifinals</b> with a playoff record of <b>3-2-0</b>.",
+            "wins": 2,
+            "losses": 4,
+            "awards": []
+          },
+          {
+            "event": "2016njfla",
+            "overall_status": "Team 303 was <b>Rank 18/39</b> with a record of <b>5-7-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 8</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-3-0</b>.",
+            "wins": 5,
+            "losses": 7,
+            "awards": ["District Engineering Inspiration Award"]
+          },
+          {
+            "event": "2016njdd",
+            "overall_status": "Team 303 had a record of <b>5-0-0</b> in quals and was eliminated in the <b>Finals</b> with a playoff record of <b>4-3-0</b>.",
+            "wins": 5,
+            "losses": 0,
+            "awards": ["Finalist"]
+          },
+          {
+            "event": "2016mrcmp",
+            "overall_status": "Team 303 was <b>Rank 33/60</b> with a record of <b>5-7-0</b> in quals.",
+            "wins": 5,
+            "losses": 7,
+            "awards": [
+              "Gracious Professionalism Award sponsored by Johnson & Johnson"
+            ]
+          },
+          {
+            "event": "2016hop",
+            "overall_status": "Team 303 was <b>Rank 6/75</b> with a record of <b>7-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 5</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 7,
+            "losses": 3,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2015,
+        "totalWins": 0,
+        "totalLosses": 0,
+        "events": [
+          {
+            "event": "2015nytr",
+            "overall_status": "Team 303 was <b>Rank 1/36</b> with an average score of <b>117.1</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Semifinals</b> with a playoff average of <b>138.2</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          },
+          {
+            "event": "2015njnbr",
+            "overall_status": "Team 303 was <b>Rank 1/34</b> with an average score of <b>124.2</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and <b>won the event</b> with a playoff average of <b>158.4</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": [
+              "District Event Winner",
+              "Innovation in Control Award sponsored by Rockwell Automation"
+            ]
+          },
+          {
+            "event": "2015njfla",
+            "overall_status": "Team 303 was <b>Rank 2/38</b> with an average score of <b>67.7</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 2</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff average of <b>64.0</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["District Chairman's Award"]
+          },
+          {
+            "event": "2015mrcmp",
+            "overall_status": "Team 303 was <b>Rank 6/53</b> with an average score of <b>146.2</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Finals</b> with a playoff average of <b>186.9</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["District Championship Finalist"]
+          },
+          {
+            "event": "2015cur",
+            "overall_status": "Team 303 was <b>Rank 8/76</b> with an average score of <b>155.3</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 7</b>, and was eliminated in the <b>Semifinals</b> with a playoff average of <b>177.2</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2014,
+        "totalWins": 40,
+        "totalLosses": 29,
+        "events": [
+          {
+            "event": "2014pahat",
+            "overall_status": "Team 303 was <b>Rank 7/40</b> with a record of <b>8-4-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 5</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 8,
+            "losses": 4,
+            "awards": ["Team Spirit Award sponsored by Chrysler"]
+          },
+          {
+            "event": "2014ohcl",
+            "overall_status": "Team 303 was <b>Rank 21/54</b> with a record of <b>6-5-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 8</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 6,
+            "losses": 5,
+            "awards": []
+          },
+          {
+            "event": "2014njcli",
+            "overall_status": "Team 303 was <b>Rank 20/31</b> with a record of <b>6-6-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 8</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 6,
+            "losses": 6,
+            "awards": ["District Chairman's Award"]
+          },
+          {
+            "event": "2014njbri",
+            "overall_status": "Team 303 was <b>Rank 1/46</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 1</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>3-2-0</b>.",
+            "wins": 10,
+            "losses": 2,
+            "awards": []
+          },
+          {
+            "event": "2014mrcmp",
+            "overall_status": "Team 303 was <b>Rank 34/55</b> with a record of <b>5-7-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 5,
+            "losses": 7,
+            "awards": ["Regional Chairman's Award"]
+          },
+          {
+            "event": "2014gal",
+            "overall_status": "Team 303 was <b>Rank 50/100</b> with a record of <b>5-5-0</b> in quals.",
+            "wins": 5,
+            "losses": 5,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2013,
+        "totalWins": 48,
+        "totalLosses": 26,
+        "events": [
+          {
+            "event": "2013njfla",
+            "overall_status": "Team 303 was <b>Rank 9/35</b> with a record of <b>7-4-1</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-2-0</b>.",
+            "wins": 7,
+            "losses": 4,
+            "awards": ["Quality Award sponsored by Motorola"]
+          },
+          {
+            "event": "2013njewn",
+            "overall_status": "Team 303 was <b>Rank 10/37</b> with a record of <b>7-5-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 5</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-3-0</b>.",
+            "wins": 7,
+            "losses": 5,
+            "awards": ["Excellence in Engineering Award sponsored by Delphi"]
+          },
+          {
+            "event": "2013njbrg",
+            "overall_status": "Team 303 was <b>Rank 7/43</b> with a record of <b>9-3-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 5</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 9,
+            "losses": 3,
+            "awards": []
+          },
+          {
+            "event": "2013njbe",
+            "overall_status": "Team 303 had a record of <b>4-2-0</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 4,
+            "losses": 2,
+            "awards": []
+          },
+          {
+            "event": "2013new",
+            "overall_status": "Team 303 was <b>Rank 3/100</b> with a record of <b>7-1-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 3</b>, and <b>won the event</b> with a playoff record of <b>6-0-0</b>.",
+            "wins": 7,
+            "losses": 1,
+            "awards": ["Championship Division Winners - Newton"]
+          },
+          {
+            "event": "2013mrcmp",
+            "overall_status": "Team 303 was <b>Rank 3/49</b> with a record of <b>10-2-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 3</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 10,
+            "losses": 2,
+            "awards": []
+          },
+          {
+            "event": "2013mm",
+            "overall_status": "Team 303 had a record of <b>2-3-0</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 2,
+            "losses": 3,
+            "awards": []
+          },
+          {
+            "event": "2013iri",
+            "overall_status": "Team 303 was <b>Rank 62/69</b> with a record of <b>2-6-1</b> in quals.",
+            "wins": 2,
+            "losses": 6,
+            "awards": []
+          },
+          {
+            "event": "2013cmp",
+            "overall_status": "Team 303 was eliminated in the <b>Semifinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2012,
+        "totalWins": 21,
+        "totalLosses": 16,
+        "events": [
+          {
+            "event": "2012pa",
+            "overall_status": "Team 303 was <b>Rank 10/53</b> with a record of <b>8-4-0</b> in quals.",
+            "wins": 8,
+            "losses": 4,
+            "awards": []
+          },
+          {
+            "event": "2012njf",
+            "overall_status": "Team 303 was <b>Rank 14/42</b> with a record of <b>7-5-0</b> in quals, competed in the playoffs as the <b>1st Pick</b> of <b>Alliance 8</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 7,
+            "losses": 5,
+            "awards": ["Imagery Award in honor of Jack Kamen"]
+          },
+          {
+            "event": "2012nj",
+            "overall_status": "Team 303 was <b>Rank 27/42</b> with a record of <b>6-7-0</b> in quals.",
+            "wins": 6,
+            "losses": 7,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2011,
+        "totalWins": 17,
+        "totalLosses": 18,
+        "events": [
+          {
+            "event": "2011pa",
+            "overall_status": "Team 303 was <b>Rank 30/56</b> with a record of <b>4-5-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 2</b>, and <b>won the event</b> with a playoff record of <b>6-2-0</b>.",
+            "wins": 4,
+            "losses": 5,
+            "awards": ["Winner"]
+          },
+          {
+            "event": "2011nj",
+            "overall_status": "Team 303 was <b>Rank 16/60</b> with a record of <b>5-3-1</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 1</b>, and <b>won the event</b> with a playoff record of <b>6-0-0</b>.",
+            "wins": 5,
+            "losses": 3,
+            "awards": [
+              "Winner",
+              "Gracious Professionalism Award sponsored by Johnson & Johnson"
+            ]
+          },
+          {
+            "event": "2011iri",
+            "overall_status": "Team 303 had a record of <b>4-5-0</b> in quals.",
+            "wins": 4,
+            "losses": 5,
+            "awards": []
+          },
+          {
+            "event": "2011arc",
+            "overall_status": "Team 303 was <b>Rank 51/88</b> with a record of <b>4-5-0</b> in quals, competed in the playoffs as the <b>2nd Pick</b> of <b>Alliance 2</b>, and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 4,
+            "losses": 5,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2010,
+        "totalWins": 8,
+        "totalLosses": 1,
+        "events": [
+          {
+            "event": "2010nj",
+            "overall_status": "Team 303 had a record of <b>8-1-0</b> in quals, competed in the playoffs as the <b>Captain</b> of <b>Alliance 3</b>, and was eliminated in the <b>Semifinals</b> with a playoff record of <b>2-3-0</b>.",
+            "wins": 8,
+            "losses": 1,
+            "awards": []
+          },
+          {
+            "event": "2010ct",
+            "overall_status": "Team 303 competed in the playoffs as the <b>Captain</b> of <b>Alliance 6</b> and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["Creativity Award sponsored by Xerox"]
+          }
+        ]
+      },
+      {
+        "year": 2009,
+        "totalWins": 8,
+        "totalLosses": 11,
+        "events": [
+          {
+            "event": "2009nj",
+            "overall_status": "Team 303 had a record of <b>3-3-1</b> in quals.",
+            "wins": 3,
+            "losses": 3,
+            "awards": ["Autodesk Visualization Award"]
+          },
+          {
+            "event": "2009md",
+            "overall_status": "Team 303 was <b>Rank 44/55</b> with a record of <b>2-5-0</b> in quals.",
+            "wins": 2,
+            "losses": 5,
+            "awards": []
+          },
+          {
+            "event": "2009gal",
+            "overall_status": "Team 303 was <b>Rank 40/86</b> with a record of <b>3-3-1</b> in quals.",
+            "wins": 3,
+            "losses": 3,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2008,
+        "totalWins": 12,
+        "totalLosses": 6,
+        "events": [
+          {
+            "event": "2008nj",
+            "overall_status": "Team 303 was <b>Rank 28/63</b> with a record of <b>4-3-0</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 4,
+            "losses": 3,
+            "awards": [
+              "Underwriters Laboratory Industrial Safety Award",
+              "Autodesk Visualization Award"
+            ]
+          },
+          {
+            "event": "2008mm",
+            "overall_status": "Team 303 had a record of <b>4-1-1</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-0</b>.",
+            "wins": 4,
+            "losses": 1,
+            "awards": []
+          },
+          {
+            "event": "2008arc",
+            "overall_status": "Team 303 was <b>Rank 23/85</b> with a record of <b>4-2-0</b> in quals.",
+            "wins": 4,
+            "losses": 2,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2007,
+        "totalWins": 2,
+        "totalLosses": 5,
+        "events": [
+          {
+            "event": "2007nj",
+            "overall_status": "Team 303 was <b>Rank 50/59</b> with a record of <b>2-5-0</b> in quals.",
+            "wins": 2,
+            "losses": 5,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2006,
+        "totalWins": 9,
+        "totalLosses": 7,
+        "events": [
+          {
+            "event": "2006nj",
+            "overall_status": "Team 303 had a record of <b>4-4-0</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 4,
+            "losses": 4,
+            "awards": []
+          },
+          {
+            "event": "2006md",
+            "overall_status": "Team 303 had a record of <b>5-3-0</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>0-2-1</b>.",
+            "wins": 5,
+            "losses": 3,
+            "awards": ["Underwriters Laboratories Industrial Safety Award"]
+          }
+        ]
+      },
+      {
+        "year": 2005,
+        "totalWins": 4,
+        "totalLosses": 5,
+        "events": [
+          {
+            "event": "2005nj",
+            "overall_status": "Team 303 had a record of <b>4-5-0</b> in quals and was eliminated in the <b>Finals</b> with a playoff record of <b>5-2-0</b>.",
+            "wins": 4,
+            "losses": 5,
+            "awards": ["Regional Finalist"]
+          }
+        ]
+      },
+      {
+        "year": 2004,
+        "totalWins": 15,
+        "totalLosses": 7,
+        "events": [
+          {
+            "event": "2004nj",
+            "overall_status": "Team 303 had a record of <b>5-3-0</b> in quals.",
+            "wins": 5,
+            "losses": 3,
+            "awards": ["Regional Winner", "Xerox Creativity Award"]
+          },
+          {
+            "event": "2004new",
+            "overall_status": "Team 303 had a record of <b>4-3-0</b> in quals.",
+            "wins": 4,
+            "losses": 3,
+            "awards": []
+          },
+          {
+            "event": "2004md",
+            "overall_status": "Team 303 had a record of <b>6-1-0</b> in quals and was eliminated in the <b>Finals</b> with a playoff record of <b>5-2-0</b>.",
+            "wins": 6,
+            "losses": 1,
+            "awards": [
+              "General Motors Industrial Design Award",
+              "Regional Finalist"
+            ]
+          },
+          {
+            "event": "2004cmp",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["Industrial Design"]
+          }
+        ]
+      },
+      {
+        "year": 2003,
+        "totalWins": 15,
+        "totalLosses": 9,
+        "events": [
+          {
+            "event": "2003nj",
+            "overall_status": "Team 303 is <b>0-1-0</b> in the <b>Quarterfinals</b>.",
+            "wins": 6,
+            "losses": 4,
+            "awards": ["GM Industrial Design Award"]
+          },
+          {
+            "event": "2003md",
+            "overall_status": "Team 303 is <b>1-0-0</b> in the <b>Quarterfinals</b>.",
+            "wins": 3,
+            "losses": 4,
+            "awards": ["Motorola Quality Award"]
+          },
+          {
+            "event": "2003gal",
+            "overall_status": "Team 303 is <b>0-1-0</b> in the <b>Quarterfinals</b>.",
+            "wins": 6,
+            "losses": 1,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 2002,
+        "totalWins": 4,
+        "totalLosses": 6,
+        "events": [
+          {
+            "event": "2002nj",
+            "overall_status": "Team 303 had a record of <b>4-6-1</b> in quals and was eliminated in the <b>Quarterfinals</b> with a playoff record of <b>1-2-0</b>.",
+            "wins": 4,
+            "losses": 6,
+            "awards": ["Johnson & Johnson Sportsmanship Award"]
+          },
+          {
+            "event": "2002gal",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["Division Finalist"]
+          }
+        ]
+      },
+      {
+        "year": 2001,
+        "totalWins": 0,
+        "totalLosses": 0,
+        "events": [
+          {
+            "event": "2001nj",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": [
+              "Regional Finalist",
+              "Delphi \"Driving Tomorrow's Technology\"",
+              "#1 Seed"
+            ]
+          }
+        ]
+      },
+      {
+        "year": 2000,
+        "totalWins": 1,
+        "totalLosses": 0,
+        "events": [
+          {
+            "event": "2000nj",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["Featherweight in the Finals"]
+          },
+          {
+            "event": "2000cmp",
+            "overall_status": "Team 303 has a record of <b>1-0-0</b> in quals.",
+            "wins": 1,
+            "losses": 0,
+            "awards": []
+          }
+        ]
+      },
+      {
+        "year": 1999,
+        "totalWins": 0,
+        "totalLosses": 0,
+        "events": [
+          {
+            "event": "1999nj",
+            "overall_status": "Team 303 is waiting for the event to begin.",
+            "wins": 0,
+            "losses": 0,
+            "awards": ["Judges' Award"]
+          }
+        ]
+      }
+    ]
+  }
+}
