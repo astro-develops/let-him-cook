@@ -37,7 +37,7 @@ export default function Home() {
 
         <Image src="/sponsors/txt1.svg" alt="" width={320} height={5} />
 
-        <div className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 bg-[#EEE] items-center p-12 rounded-3xl w-4/5">
+        <div className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 items-center p-12 rounded-3xl w-4/5">
           {platinum.map((item, index) => (
             <a key={index} href={item.link}>
               <Image
@@ -74,7 +74,7 @@ export default function Home() {
               duration: 1.2,
             },
           }}
-          className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 bg-[#EEE] items-center p-12 rounded-3xl w-4/5"
+          className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 items-center p-12 rounded-3xl w-4/5"
         >
           {gold.map((item, index) => (
             <a key={index} href={item.link}>
@@ -112,7 +112,7 @@ export default function Home() {
               duration: 1.2,
             },
           }}
-          className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 bg-[#EEE] items-center p-12 rounded-3xl w-4/5"
+          className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 items-center p-12 rounded-3xl w-4/5"
         >
           {sliver.map((item, index) => (
             <a key={index} href={item.link}>
@@ -150,7 +150,7 @@ export default function Home() {
               duration: 1.2,
             },
           }}
-          className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10 bg-[#EEE] items-center p-12 rounded-3xl w-4/5"
+          className="flex justify-normal flex-wrap flex-col justify-center items-center sm:flex-row gap-10  items-center p-12 rounded-3xl w-4/5"
         >
           {bronze.map((item, index) => (
             <a key={index} href={item.link}>

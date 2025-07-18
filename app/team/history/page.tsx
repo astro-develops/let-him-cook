@@ -1,9 +1,10 @@
 "use client";
 import Image from "next/image";
 import * as React from "react";
-import { useState } from "react";
+// import { useState } from "react";
+import { RobotDrawer } from "@/components/robots";
 import { items } from "@/data/events.json";
-import { Card, CardContent } from "@/components/ui/card";
+// import { Card, CardContent } from "@/components/ui/card";
 import {
   Carousel,
   CarouselContent,
@@ -20,9 +21,21 @@ import {
 
 export default function Home() {
   const { bots } = items;
+
   return (
     <>
-      <Carousel className="w-4/5 p-24 z-[0]">
+      <div className="pt-24 flex justify-center">
+      <div className="w-2/3">
+        {bots.map((bot, index) => (
+          <RobotDrawer key={index} year={bot.year} info={bot} />
+        ))}
+      </div>
+      </div>
+    </>
+  );
+}
+
+{/* <Carousel className="w-4/5 p-24 z-[0]">
         <CarouselContent>
           {bots.map((bot, index) => (
             <CarouselItem key={index}>
@@ -85,7 +98,4 @@ export default function Home() {
         </CarouselContent>
         <CarouselPrevious className="bg-[#DDEFEF12] border-[#DDEFEF32] text-[#6A8FB1] scale-125" />
         <CarouselNext className="bg-[#DDEFEF12] border-[#DDEFEF32] text-[#6A8FB1] scale-125" />
-      </Carousel>
-    </>
-  );
-}
+      </Carousel> */}

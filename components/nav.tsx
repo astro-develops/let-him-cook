@@ -72,7 +72,7 @@ export default function Nav() {
                         </div>
                         <p className="text-xs leading-tight text-muted-foreground">
                           From hardships to success and back, check out what
-                          303's been able to accomplish
+                          303&apos;s been able to accomplish
                         </p>
                       </a>
                     </NavigationMenuLink>
