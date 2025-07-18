@@ -1,23 +1,9 @@
 "use client";
-import Image from "next/image";
 import * as React from "react";
 // import { useState } from "react";
 import { RobotDrawer } from "@/components/robots";
 import { items } from "@/data/events.json";
 // import { Card, CardContent } from "@/components/ui/card";
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from "@/components/ui/carousel";
-import {
-  Accordion,
-  AccordionContent,
-  AccordionItem,
-  AccordionTrigger,
-} from "@/components/ui/accordion";
 
 export default function Home() {
   const { bots } = items;
