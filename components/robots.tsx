@@ -20,7 +20,6 @@ interface BotInfo {
     totalWins?: number;
     totalLosses?: number;
     events: Event[];
-    [key: string]: any;
 }
 
 interface RobotDrawerProps {
