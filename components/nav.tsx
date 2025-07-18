@@ -18,24 +18,24 @@ import {
 const components: { title: string; href: string; description: string }[] = [
   {
     title: "Mentoring Teams",
-    href: "/outreach/fll",
+    href: "",
     description:
       "Bringing STEAM to younger students through unoffical FLL teams and events",
   },
   {
     title: "STEAM",
-    href: "/outreach/steam",
+    href: "",
     description:
       "Check out some of our Steam related events and workshops 303 puts together",
   },
   {
     title: "#IamValid",
-    href: "/outreach/iamvalid",
+    href: "",
     description: "In honor of our beloved LGBTQIA+ member, Charlie Schulz",
   },
   {
     title: "Other initiatives",
-    href: "/outreach/other",
+    href: "",
     description: "____",
   },
 ];
